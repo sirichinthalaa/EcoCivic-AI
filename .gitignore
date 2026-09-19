@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# MongoDB local files
+*.bson
+*.dump
+
+# Uploaded user files
+uploads/*
+
+# IDE / editor
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+
+# Temporary files
+*.log
+*.tmp
