@@ -783,33 +783,6 @@ The following workflows were tested during development:
 
 ---
 
-# 📷 Screenshots
-
-Project screenshots can be added to the `docs/` directory.
-
-Suggested screenshots:
-
-```text
-docs/
-├── home-page.png
-├── user-profile.png
-├── complaint-submission.png
-├── my-complaints.png
-├── complaint-details.png
-├── admin-login.png
-├── admin-dashboard.png
-├── dashboard-charts.png
-└── SystemArchitecture.png
-```
-
-Add screenshots to this README using Markdown syntax:
-
-```markdown
-![Admin Dashboard](docs/admin-dashboard.png)
-```
-
----
-
 # 🧑‍💻 Project Development
 
 This project was developed as an AI + Sustainability project to demonstrate how artificial intelligence can be integrated with a web-based grievance management system.
